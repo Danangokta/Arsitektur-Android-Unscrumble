@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arsitek Android Unscramble</string>
+    <string name="instructions">Uraikan Kata Menjadi Sebuah Kata yang Benar Menggunakan Semua Huruf</string>
+    <string name="skip">Lewati</string>
+    <string name="submit">Kirim</string>
+    <string name="score">Nilai: %d</string>
+    <string name="word_count">%d dari %d kata</string>
+    <string name="enter_your_word">Masukkan Kata</string>
+    <string name="congratulations">Selamat Kamu Berhasil!</string>
+    <string name="you_scored">"Nilai Kamu: %d"</string>
+    <string name="exit">Keluar</string>
+    <string name="play_again">Main Lagi</string>
+    <string name="try_again">Coba Lagi!</string>
+</resources>
